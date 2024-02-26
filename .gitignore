@@ -1,4 +1,9 @@
 .DS_Store
+models/**/*
+*.model
+*.vocab
+*.json
+*.bpe
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
