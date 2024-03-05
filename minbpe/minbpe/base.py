@@ -6,8 +6,8 @@ e.g. isolating all regex/pattern parts to the RegexTokenizer, but
 some concessions are made for simplicity.
 """
 
-from typing import Optional
 import unicodedata
+from typing import Optional
 
 # -----------------------------------------------------------------------------
 # a few helper functions useful for both BasicTokenizer and RegexTokenizer
